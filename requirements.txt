@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+torchaudio
+transformers
+rembg[cpu]
+trimesh
+scipy
+Pillow
+numpy>=1.23
+pyvista
+stpyvista
